@@ -1,0 +1,23 @@
+DEPENDENCY LIST:
+
+INTERNAL:
+--------
+solar_nn [Michael Taylor, GNU/GPL 3.0: patternizer@gmail.com]
+net_clear [Michael Taylor, GNU/GPL 3.0: patternizer@gmail.com]
+net_cloud [Michael Taylor, GNU/GPL 3.0: patternizer@gmail.com]
+sz_angle.m [Michael Taylor, GNU/GPL 3.0: patternizer@gmail.com]
+
+EXTERNAL (download):
+-------------------
+m_map package [Rich Pawlowicz: https://www.eoas.ubc.ca/~rich/map.html]
+global self-consistent, hierarchical, high-resolution geography (GSHHG) database: [GPL (lesser): https://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html]
+
+MATLAB FILE EXCHANGE (download):
+-------------------------------
+ignoreNaN.m [Matt G, Matlab file exchange: http://bit.ly/2h7YwAF]
+is_Daylight_Savings.m [Nate, Matlab file exchange: http://bit.ly/2h7QTud]
+rgb.m [Chad Greene, Matlab file exchange: http://bit.ly/1osmxpT]
+rgbmap.m [Chad Greene, Matlab file exchange: http://bit.ly/2gvsgaK]
+rgb.txt [Randall Munroe, XKCD colour survey: http://xkcd.com/color/rgb.txt]
+
+Last updated: 05/12/2016
