@@ -22,3 +22,11 @@ INPUT FILES:
 
 The user will need to place *.COT files and corresponding *.h5 files
 (plus AOD *.mat files if available) in the sub-directory: TEST_DATA/
+
+CITATION:
+
+This work is partly based on the peer-reviewed article:
+
+Taylor, M., Kosmopoulos, P. G., Kazadzis, S., Keramitsoglou, I., & Kiranoudis, C. T. (2016). Neural network radiative transfer solvers for the generation of high resolution solar irradiance spectra parameterized by cloud and aerosol parameters. Journal of Quantitative Spectroscopy and Radiative Transfer, 168, 176-192.
+
+URL: http://www.sciencedirect.com/science/article/pii/S0022407315300078
